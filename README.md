@@ -9,8 +9,7 @@ PROJECT 1:
       added detail of ADT variety focusing on vectors, hash tables, and binary search
       trees.
     - Analyze runtime complexity for the three data structures and display.
-    - Compare these runtime complexities as well as pros and cons of each data struc-
-      ture.
+    - Compare these runtime complexities as well as pros and cons of each data structure.
     - Reflect upon these comparisons and provide an educated recommendation of the
       best data structure to utilize for the given scenario.
   
